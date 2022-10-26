@@ -13,6 +13,8 @@ It is however still a good code example how to access CD/DVD drives in Windows a
 The program scans all your existing CD/DVD drives and will wait until a media gets inserted.
 It will then start a new thread to copy all the contents to a location that was specified in a configuration file. See below.
 
+![Main Application Window"](https://github.com/ptrumpis/AutoCopyCdRom/raw/master/assets/main-window.png "Main Application Window")
+
 ### Configuration
 
 The following example .ini file is included in the project, it's name must remain unchanged and it must be in the same folder as the binary .exe file when you run the application.
